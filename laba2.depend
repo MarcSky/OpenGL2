@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1418821522 source:/home/juster/old/labakg/laba2/laba2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"GL/gl.h"
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<stdint.h>
+
